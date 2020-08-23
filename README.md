@@ -1,0 +1,2 @@
+# mathematical_modelling_infectious_diseases
+This repository contains code assosciated to the textbook Keeling, M.J. and Rohani, P. (2007) Modeling Infectious Diseases in Humans and Animals. Princeton University Press. Unless otherwise stated, all code has been taken from their webpage http://homepages.warwick.ac.uk/~masfz/ModelingInfectiousDiseases/index.html . I have only made minor modifications for formatting purposes.
